@@ -1,0 +1,163 @@
+    <svg
+          width="1336"
+          height="100"
+          viewBox="0 0 1336 100"
+          fill="none"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <g clip-path="url(#clip0)">
+            <rect
+              width="166.498"
+              height="456.245"
+              transform="matrix(0.932466 -0.361257 0.65221 0.758039 100.859 -70.8516)"
+              fill="url(#paint0_linear)"
+            />
+            <rect
+              width="166.498"
+              height="456.245"
+              transform="matrix(-0.932466 -0.361257 -0.65221 0.758039 1235.82 -70.8516)"
+              fill="url(#paint1_linear)"
+            />
+            <rect
+              width="166.498"
+              height="378.463"
+              transform="matrix(0.932466 -0.361257 0.65221 0.758039 -65 -23.0801)"
+              fill="url(#paint2_linear)"
+            />
+            <rect
+              width="166.498"
+              height="378.463"
+              transform="matrix(-0.932466 -0.361257 -0.65221 0.758039 1401.68 -23.0801)"
+              fill="url(#paint3_linear)"
+            />
+            <rect
+              x="184"
+              y="147.1"
+              width="35.4969"
+              height="35.4969"
+              transform="rotate(-45 184 147.1)"
+              fill="#FFCD00"
+            />
+            <rect
+              x="194.1"
+              y="147.1"
+              width="21.2131"
+              height="21.2131"
+              transform="rotate(-45 194.1 147.1)"
+              fill="#00BB96"
+            />
+            <rect
+              x="202.281"
+              y="147.031"
+              width="9.54544"
+              height="9.54544"
+              transform="rotate(-45 202.281 147.031)"
+              fill="white"
+            />
+            <circle cx="933" cy="57" r="6" fill="#00BB96" />
+            <circle cx="610" cy="150" r="6" fill="#32C5FF" />
+            <circle cx="469" cy="32" r="6" fill="#FFCE00" />
+            <rect
+              x="1213"
+              y="159.899"
+              width="14"
+              height="14"
+              transform="rotate(-45 1213 159.899)"
+              fill="#FFAE00"
+            />
+            <rect
+              x="139"
+              y="37.8994"
+              width="14"
+              height="14"
+              transform="rotate(-45 139 37.8994)"
+              fill="#32C5FF"
+            />
+            <path
+              d="M10 54.9986C19.5888 65.5506 61.2318 86.4568 151.093 85.6654C263.419 84.6761 276.433 1.57896 381.91 28.2888C487.387 54.9986 487.835 168.367 592.865 177.171C669.575 183.601 661.009 152.915 779.5 74.764C799.134 61.2442 840.049 42.0099 879.5 84.3499C928.814 137.275 1071.62 155.408 1159.29 82.203C1229.43 23.6392 1306.32 57.8014 1336 82.203"
+              stroke="#A5E5FF"
+            />
+            <path
+              d="M10 36.968C19.5888 47.51 61.2318 68.3962 151.093 67.6055C263.419 66.6172 276.433 -16.4006 381.91 10.2837C487.387 36.968 487.835 150.228 592.865 159.024C669.575 165.448 662.509 140.92 781 62.8437C800.634 49.3368 847.707 40.1921 890 80.848C949.376 137.926 1095.83 120.656 1183.5 47.5209C1253.64 -10.9869 1361 81.4606 1398 91.1909"
+              stroke="#FFF4C5"
+            />
+            <path
+              d="M10 16.0425C19.5888 26.6091 61.2318 47.544 151.093 46.7515C263.419 45.7609 276.433 -37.4505 381.91 -10.704C487.387 16.0425 487.835 129.567 592.865 138.383C669.575 144.822 661.009 134.827 779.5 56.5692C799.134 43.0308 835 28.5398 880.5 63.8645C940.15 110.174 1071.62 116.59 1159.29 43.2843C1229.43 -15.3599 1306.32 18.8492 1336 43.2843"
+              stroke="#CDFFF5"
+            />
+            <rect
+              x="1099"
+              y="51.1001"
+              width="35.4969"
+              height="35.4969"
+              transform="rotate(-45 1099 51.1001)"
+              fill="#00BB96"
+            />
+            <rect
+              x="1109.1"
+              y="51.1001"
+              width="21.2131"
+              height="21.2131"
+              transform="rotate(-45 1109.1 51.1001)"
+              fill="#FFCD00"
+            />
+            <rect
+              x="1117.28"
+              y="51.0312"
+              width="9.54544"
+              height="9.54544"
+              transform="rotate(-45 1117.28 51.0312)"
+              fill="white"
+            />
+          </g>
+          <defs>
+            <linearGradient
+              id="paint0_linear"
+              x1="168.521"
+              y1="207.599"
+              x2="2.999"
+              y2="216.204"
+              gradientUnits="userSpaceOnUse"
+            >
+              <stop stop-color="#FBFCFD" />
+              <stop offset="1" stop-color="#FBFCFD" stop-opacity="0" />
+            </linearGradient>
+            <linearGradient
+              id="paint1_linear"
+              x1="168.521"
+              y1="207.599"
+              x2="2.999"
+              y2="216.204"
+              gradientUnits="userSpaceOnUse"
+            >
+              <stop stop-color="#FBFCFD" />
+              <stop offset="1" stop-color="#FBFCFD" stop-opacity="0" />
+            </linearGradient>
+            <linearGradient
+              id="paint2_linear"
+              x1="168.521"
+              y1="172.207"
+              x2="3.20098"
+              y2="182.568"
+              gradientUnits="userSpaceOnUse"
+            >
+              <stop stop-color="#FBFCFD" />
+              <stop offset="1" stop-color="#FBFCFD" stop-opacity="0" />
+            </linearGradient>
+            <linearGradient
+              id="paint3_linear"
+              x1="168.521"
+              y1="172.207"
+              x2="3.20098"
+              y2="182.568"
+              gradientUnits="userSpaceOnUse"
+            >
+              <stop stop-color="#FBFCFD" />
+              <stop offset="1" stop-color="#FBFCFD" stop-opacity="0" />
+            </linearGradient>
+            <clipPath id="clip0">
+              <rect width="1336" height="209" fill="white" />
+            </clipPath>
+          </defs>
+        </svg>
+    
