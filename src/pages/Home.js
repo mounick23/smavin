@@ -101,7 +101,7 @@ const Home = () => {
     <div className="downba" style={{ backgroundImage: `url(${dback})` }}>
  <a> Confused? Have Queries? We are here to help you! 
     </a>  
- <p>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit  Velit officia consequat duis enim velit </p>
+ <p>my name is mounick Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit  Velit officia consequat duis enim velit </p>
 <div className="bnj">Book a Consultation</div>
   </div>
  </div>      <br />
@@ -112,6 +112,7 @@ const Home = () => {
 
 export default Home;
 
+//my name
 /*
 
       <h4 className="newu text-center p-3 mt-5 mb-5">
